@@ -23,7 +23,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">TipToe Sole</h5>
                   <p className="card-text">This website was created as part of my Cert IV I.T course for an assignment at TAFENSW. The scenario given was to build a website for an online, Australian shoe store. This website had a main focus on accessibility and the ability to run across a range of devices. This website had to be simple to avoid distractions but ALSO be able to provide detailed information in a neat way.</p>
-                  <a href="https://reiyua.lol/TiptoeSoleStore/" className="btn btn-primary">View Website</a>
+                  <a href="https://reiyua.github.io/TiptoeSoleStore/" className="btn btn-primary">View Website</a>
                   <a href="https://github.com/reiyua/TiptoeSoleStore" className="btn btn-primary">View Github Project</a>
                 </div>
               </div>
@@ -33,7 +33,7 @@ function App() {
                 <div className="card-body">
                   <h5 className="card-title">TAFE NSW Cert IV Lesson Website</h5>
                   <p className="card-text">This is a website that was created as I learned how to use HTML & CSS during my Cert IV at TAFE NSW, very basic.</p>
-                  <a href="https://reiyua.lol/TAFENSWCertIVLessonWebsite/" className="btn btn-primary">View Website</a>
+                  <a href="https://reiyua.github.io/TAFENSWCertIVLessonWebsite/" className="btn btn-primary">View Website</a>
                   <a href="https://github.com/reiyua/TAFENSWCertIVLessonWebsite/" className="btn btn-primary">View Github Project</a>
                 </div>
               </div>
